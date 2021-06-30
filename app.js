@@ -1,3 +1,27 @@
+// **********QUESTION 1**********
+
+// var items = [
+//     {
+//         name: "Juice",
+//         price: 50,
+//         quantity: "3",
+//     },
+//     {
+//         name: "Cookie",
+//         price: 30,
+//         quantity: "9",
+//     },
+//     {
+//         name: "Shirt",
+//         price: 400,
+//         quantity: "20",
+//     }
+// ]
+
+// console.log(items[0].price + items[1].price + items[2].price)
+// console.log(items[0].price * items[0].quantity + items[1].price * items[1].quantity + items[2].price * items[2].quantity)
+
+
 // **********QUESTION 2**********
 
 // var property = {
